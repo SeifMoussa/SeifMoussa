@@ -10,7 +10,7 @@ AI integration, and scalable systems.
 I build practical projects that combine clean code, defensive security workflows,
 automation, testing, and documentation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Mansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seifh-056929203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Mansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/seif-h-056929203)
 [![Email](https://img.shields.io/badge/Email-seifmansour53%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seifmansour53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SeifMoussa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeifMoussa)
 
