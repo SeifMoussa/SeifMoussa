@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi, I'm Seif Mansour 👋
+# Hi, I'm Seif Mansour
 
 ### Software Engineer | Secure Software | Blue Team/SOC Labs | AI Integration
 
-I am a Software Engineer focused on secure software development, Blue Team/SOC labs, AI integration, and scalable systems. I build practical projects that combine clean code, defensive security workflows, automation, testing, and documentation.
+I am a Software Engineer focused on secure software development, Blue Team/SOC labs,
+AI integration, and scalable systems.
+
+I build practical projects that combine clean code, defensive security workflows,
+automation, testing, and documentation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Mansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seifh-056929203)
 [![Email](https://img.shields.io/badge/Email-seifmansour53%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seifmansour53@gmail.com)
